@@ -7,9 +7,17 @@
     "importance": 2,
     "type": "Universitaire",
     "descriptionCourte": "Développement complet d'une application répondant à un besoin client.",
-    "descriptionLongue": "Cette SAE avait pour objectif de formaliser les besoins d'un client, proposer une conception puis développer et tester l'application réalisée. en équipe de 2 Application sur le thème de la fête des lumières de Lyon afin de trouver les plus cours chemin entre plusieurs points, géographique ou euclidien.",
-    "competences": ["Réaliser", "Optimiser", "Collaborer"],
-    "technologies": [1, 11, 15],
+    "descriptionLongue": "Cette SAE avait pour objectif de formaliser les besoins d'un client, de proposer une conception puis de développer et tester l'application réalisée en équipe de deux étudiants. L'application, sur le thème de la Fête des Lumières de Lyon, permettait de trouver les plus courts chemins entre plusieurs points, selon une distance géographique ou euclidienne.",
+    "competences": [
+      "Réaliser",
+      "Optimiser",
+      "Collaborer"
+    ],
+    "technologies": [
+      1,
+      11,
+      15
+    ],
     "apprentissages": [
       {
         "code": "AC11.01",
@@ -75,8 +83,13 @@
     "type": "Universitaire",
     "descriptionCourte": "Développement d'une application à partir d'un cahier des charges.",
     "descriptionLongue": "Cette SAE consistait à implémenter une solution répondant à un besoin client et à produire les preuves de validation via des jeux d'essais en équipe de 2. L'application fonctionne en boîte noire",
-    "competences": ["Réaliser"],
-    "technologies": [1, 11],
+    "competences": [
+      "Réaliser"
+    ],
+    "technologies": [
+      1,
+      11
+    ],
     "apprentissages": [
       {
         "code": "AC11.01",
@@ -91,7 +104,11 @@
         "description": "Faire des essais et évaluer leurs résultats"
       }
     ],
-    "competencesDeveloppees": ["Programmation", "Analyse des besoins", "Tests"],
+    "competencesDeveloppees": [
+      "Programmation",
+      "Analyse des besoins",
+      "Tests"
+    ],
     "image": "",
     "website": "",
     "github": "https://github.com/CheyenneBonniol/Annuaire",
@@ -99,15 +116,21 @@
   },
   {
     "id": 3,
-    "nom": "Etudes des fonctions de l'Annuaire",
+    "nom": "Étude des fonctions de l'annuaire",
     "titre": "SAE 1.02 - Comparaison d'approches algorithmiques",
     "annee": "BUT 1",
     "importance": 3,
     "type": "Universitaire",
     "descriptionCourte": "Étude et comparaison de plusieurs algorithmes.",
-    "descriptionLongue": "Cette SAE avait pour objectif de comparer différentes approches algorithmiques afin d'évaluer leurs performances et leur pertinence pour le projet annuaire par la même équipe de 2. La comparaison s'est faite entre les algorithmes de tris",
-    "competences": ["Optimiser"],
-    "technologies": [1, 11, 19],
+    "descriptionLongue": "Cette SAE avait pour objectif de comparer différentes approches algorithmiques afin d'évaluer leurs performances et leur pertinence pour le projet Annuaire, réalisé par la même équipe de deux étudiants. La comparaison s'est faite entre différents algorithmes de tri.",
+    "competences": [
+      "Optimiser"
+    ],
+    "technologies": [
+      1,
+      11,
+      19
+    ],
     "apprentissages": [
       {
         "code": "AC12.01",
@@ -132,7 +155,6 @@
     "github": "https://github.com/CheyenneBonniol/Annuaire",
     "captures": []
   },
-
   {
     "id": 5,
     "nom": "Portfolio Vue.js",
@@ -142,15 +164,26 @@
     "type": "Universitaire",
     "descriptionCourte": "Création d'un portfolio personnel en Vue.js.",
     "descriptionLongue": "Développement d'un portfolio dynamique utilisant Vue.js et des fichiers JSON comme source de données.",
-    "competences": ["Réaliser"],
-    "technologies": [7, 11, 22],
+    "competences": [
+      "Réaliser"
+    ],
+    "technologies": [
+      7,
+      11,
+      22
+    ],
     "apprentissages": [
       {
         "code": "AC11.04",
         "description": "Développer des interfaces utilisateurs"
       }
     ],
-    "competencesDeveloppees": ["Frontend", "Vue.js", "Composants", "Responsive Design"],
+    "competencesDeveloppees": [
+      "Frontend",
+      "Vue.js",
+      "Composants",
+      "Responsive Design"
+    ],
     "image": "",
     "website": "",
     "github": "https://github.com/CheyenneBonniol/portfolio",
@@ -164,13 +197,13 @@
     "importance": 5,
     "type": "Universitaire",
     "descriptionCourte": "Analyse des besoins d'un client et rédaction d'un cahier des charges complet pour encadrer le développement d'une application.",
-
     "descriptionLongue": "Cette SAE avait pour objectif de découvrir les méthodes de gestion de projet informatique. À partir d'un besoin client, nous avons analysé les attentes des utilisateurs puis rédigé un cahier des charges détaillé. Le projet comprenait la définition des objectifs (méthode SMART), l'analyse du contexte (QQOQCP), l'identification des contraintes et enjeux, la priorisation des fonctionnalités avec la méthode MoSCoW ainsi que la planification des tâches à l'aide d'outils de gestion de projet tels que le WBS et la matrice RACI. Cette SAE m'a permis de comprendre les différentes étapes d'un cycle de développement et l'importance de la communication avec les parties prenantes.",
-
-    "competences": ["Conduire"],
-
-    "technologies": [19],
-
+    "competences": [
+      "Conduire"
+    ],
+    "technologies": [
+      19
+    ],
     "apprentissages": [
       {
         "code": "AC15.01",
@@ -185,7 +218,6 @@
         "description": "Identifier les acteurs et les différentes phases d’un cycle de développement"
       }
     ],
-
     "competencesDeveloppees": [
       "Analyse des besoins",
       "Gestion de projet",
@@ -194,11 +226,9 @@
       "Rédaction de documentation",
       "Travail en équipe"
     ],
-
     "image": "",
     "website": "",
     "github": "",
-
     "captures": []
   },
   {
@@ -210,8 +240,13 @@
     "type": "Universitaire",
     "descriptionCourte": "Analyse et exploitation de données à partir d'une base Oracle.",
     "descriptionLongue": "Cette SAE avait pour objectif d'exploiter les données d'une base Oracle afin d'en extraire des informations pertinentes en équipe de 2. Le travail consistait à interroger les données, réaliser des analyses et produire des tableaux de bord et visualisations avec Power BI afin de mettre en évidence des indicateurs utiles à la prise de décision.",
-    "competences": ["Gérer"],
-    "technologies": [8, 17],
+    "competences": [
+      "Gérer"
+    ],
+    "technologies": [
+      8,
+      17
+    ],
     "apprentissages": [
       {
         "code": "AC14.01",
@@ -236,7 +271,10 @@
     "image": "",
     "website": "",
     "github": "",
-    "captures": ["/portfolio/images/POWER_BI_1.png", "/portfolio/images/POWER_BI_2.png"]
+    "captures": [
+      "/portfolio/images/POWER_BI_1.png",
+      "/portfolio/images/POWER_BI_2.png"
+    ]
   },
   {
     "id": 8,
@@ -247,8 +285,13 @@
     "type": "Universitaire",
     "descriptionCourte": "Installation et configuration d'un poste informatique sous Windows 10 répondant aux besoins d'un utilisateur.",
     "descriptionLongue": "Cette SAE avait pour objectif de préparer un poste informatique à partir d'un besoin exprimé par un client en équipe de 2. Le projet consistait à étudier les composants matériels nécessaires, justifier le choix d'une configuration adaptée puis réaliser une documentation technique. Une seconde partie portait sur la configuration d'un poste sous Windows 10 pour un environnement familial avec la mise en place de comptes utilisateurs, de groupes et de droits d'accès adaptés. L'ensemble du travail a été documenté à travers une notice technique et une notice d'utilisation.",
-    "competences": ["Administrer"],
-    "technologies": [18, 19],
+    "competences": [
+      "Administrer"
+    ],
+    "technologies": [
+      18,
+      19
+    ],
     "apprentissages": [
       {
         "code": "AC13.01",
@@ -285,8 +328,24 @@
     "type": "Universitaire",
     "descriptionCourte": "Développement et amélioration d'une application web collaborative s'appuyant sur une base de données et des services serveur.",
     "descriptionLongue": "Projet réalisé en équipe de 4. L'objectif était de recueillir et formaliser les besoins des utilisateurs, concevoir puis développer une application web communicante reposant sur une base de données et des services serveur. Le projet a ensuite été amélioré à travers une démarche itérative portant sur la qualité logicielle, les performances, la sécurité, l'accessibilité et l'ergonomie. Le travail comprenait le développement des fonctionnalités, la gestion des données, les tests, le suivi du projet et la collaboration au sein d'une équipe informatique.",
-    "competences": ["Réaliser", "Optimiser", "Administrer", "Gérer", "Conduire", "Collaborer"],
-    "technologies": [20, 14, 11, 8, 6, 5, 4, 15],
+    "competences": [
+      "Réaliser",
+      "Optimiser",
+      "Administrer",
+      "Gérer",
+      "Conduire",
+      "Collaborer"
+    ],
+    "technologies": [
+      20,
+      14,
+      11,
+      8,
+      6,
+      5,
+      4,
+      15
+    ],
     "apprentissages": [
       {
         "code": "AC21.01",
@@ -406,8 +465,16 @@
     "type": "Personnel",
     "descriptionCourte": "Découverte de React et TypeScript à travers le développement d'une application To-Do List et la réalisation d'exercices algorithmiques.",
     "descriptionLongue": "Ce projet personnel avait pour objectif de découvrir l'écosystème React et TypeScript tout en renforçant les bases algorithmiques. Il est composé de deux parties : une application To-Do List développée avec React et TypeScript permettant la gestion de tâches, ainsi qu'un ensemble d'exercices algorithmiques en Python comprenant notamment un FizzBuzz et un vérificateur de palindrome. Ce projet m'a permis d'apprendre les hooks React, la syntaxe TSX, le typage avec TypeScript et l'organisation d'une application front-end moderne.",
-    "competences": ["Réaliser", "Optimiser"],
-    "technologies": [21, 22, 2, 11],
+    "competences": [
+      "Réaliser",
+      "Optimiser"
+    ],
+    "technologies": [
+      21,
+      22,
+      2,
+      11
+    ],
     "apprentissages": [
       {
         "code": "AC21.03",
@@ -456,8 +523,13 @@
     "type": "Personnel",
     "descriptionCourte": "Conception et réalisation d'un site web vitrine pour une association, avec choix de l'hébergement et structuration du contenu.",
     "descriptionLongue": "Réalisation du site internet de l'association 1ACM sous WordPress. Le projet consistait à définir l'organisation générale du site, choisir une offre d'hébergement adaptée aux besoins de l'association, concevoir l'arborescence des pages et mettre en place les différents contenus. Le site ne repose pas sur une base de données métier spécifique : les informations sont saisies et mises à jour directement depuis l'interface d'administration WordPress. Aujourd'hui, la maintenance et l'évolution du site sont assurées par l'association et un autre étudiant du BUT.",
-    "competences": ["Conduire", "Collaborer"],
-    "technologies": [23],
+    "competences": [
+      "Conduire",
+      "Collaborer"
+    ],
+    "technologies": [
+      23
+    ],
     "apprentissages": [
       {
         "code": "AC15.01",
@@ -506,8 +578,19 @@
     "type": "universitaire",
     "descriptionCourte": "Développement d'un blog collaboratif en PHP permettant la publication d'articles, la gestion des utilisateurs et les interactions entre membres.",
     "descriptionLongue": "Réalisation d'un site web dynamique développé en PHP et MySQL dans le cadre du BUT Informatique. Le projet consistait à concevoir un blog humoristique où les utilisateurs peuvent créer un compte, publier des articles, commenter les publications d'autres membres et gérer leur profil. Le site intègre un système d'authentification, une interface d'administration, la gestion des catégories d'articles ainsi qu'une base de données relationnelle permettant de stocker les utilisateurs, les publications et les commentaires. Ce projet a permis de mettre en pratique le développement web côté serveur, la conception de bases de données et le travail en équipe sur une application complète.",
-    "competences": ["Réaliser", "Administrer", "Gérer", "Collaborer", "Conduire"],
-    "technologies": [20, 5, 8, 6],
+    "competences": [
+      "Réaliser",
+      "Administrer",
+      "Gérer",
+      "Collaborer",
+      "Conduire"
+    ],
+    "technologies": [
+      20,
+      5,
+      8,
+      6
+    ],
     "apprentissages": [
       {
         "code": "AC21.01",
@@ -567,9 +650,13 @@
     "importance": 1,
     "type": "Professionnel",
     "descriptionCourte": "Analyse de l'existant et recueil des besoins utilisateurs dans le cadre de la refonte d'une application de suivi socioprofessionnel.",
-    "descriptionLongue": "Dans le cadre d'un projet de refonte d'une application utilisée par des Conseillers en Insertion Professionnelle (CIP), ma mission consistait à analyser l'existant et à identifier les fonctionnalités essentielles à conserver ou à faire évoluer. L'application permet le suivi de bénéficiaires accompagnés dans différents dispositifs financés par des organismes publics, tout en fournissant des indicateurs de suivi, d'assiduité et d'activité nécessaires aux financeurs.\n\nJ'ai réalisé une étude approfondie des fonctionnalités présentes dans l'application actuelle ainsi qu'un travail de recueil des besoins auprès des différents utilisateurs. Plusieurs entretiens ont été menés avec les CIP afin d'identifier les fonctionnalités clés, les éléments devenus obsolètes et les besoins non couverts. Une attention particulière a été portée au processus de réalisation des diagnostics, désormais devenus obligatoires dans le parcours d'accompagnement.\n\nCette analyse a abouti à la rédaction d'un document de synthèse de 17 pages regroupant le contexte métier, l'inventaire des fonctionnalités, les informations liées aux diagnostics et les retours des utilisateurs. J'ai également réalisé une étude du parcours utilisateur en observant et documentant les différentes étapes du premier accueil d'un bénéficiaire, depuis la première rencontre jusqu'aux rendez-vous de suivi. Ce travail a permis d'identifier les fonctionnalités réellement utilisées et de mettre en évidence la nécessité de simplifier et moderniser l'application afin de mieux répondre aux attentes des utilisateurs.",
-    "competences": ["Conduire"],
-    "technologies": [19],
+    "descriptionLongue": "Dans le cadre d'un projet de refonte d'une application utilisée par des Conseillers en Insertion Professionnelle (CIP), ma mission consistait à analyser l'existant et à identifier les fonctionnalités essentielles à conserver ou à faire évoluer. L'application permet le suivi de bénéficiaires accompagnés dans différents dispositifs financés par des organismes publics, tout en fournissant des indicateurs de suivi, d'assiduité et d'activité nécessaires aux financeurs.\n\nJ'ai réalisé une étude approfondie des fonctionnalités présentes dans l'application actuelle ainsi qu'un travail de recueil des besoins auprès des différents utilisateurs. Plusieurs entretiens ont été menés avec les CIP afin d'identifier les fonctionnalités clés, les éléments devenus obsolètes et les besoins non couverts. Une attention particulière a été portée au processus de réalisation des diagnostics, désormais obligatoires dans le parcours d'accompagnement.\n\nCette analyse a abouti à la rédaction d'un document de synthèse de 17 pages regroupant le contexte métier, l'inventaire des fonctionnalités, les informations liées aux diagnostics et les retours des utilisateurs. J'ai également réalisé une étude du parcours utilisateur en observant et documentant les différentes étapes du premier accueil d'un bénéficiaire, depuis la première rencontre jusqu'aux rendez-vous de suivi. Ce travail a permis d'identifier les fonctionnalités réellement utilisées et de mettre en évidence la nécessité de simplifier et moderniser l'application afin de mieux répondre aux attentes des utilisateurs.",
+    "competences": [
+      "Conduire"
+    ],
+    "technologies": [
+      19
+    ],
     "apprentissages": [
       {
         "code": "AC25.02",
@@ -595,7 +682,9 @@
     ],
     "image": "",
     "github": "",
-    "captures": ["/portfolio/images/fichierRecueil.png"]
+    "captures": [
+      "/portfolio/images/fichierRecueil.png"
+    ]
   },
   {
     "id": 14,
@@ -605,9 +694,15 @@
     "importance": 1,
     "type": "Professionnel",
     "descriptionCourte": "Conception et amélioration progressive d’un modèle de données pour un système de diagnostic.",
-    "descriptionLongue": "Ce travail consistait à concevoir une base de données à partir de zéro en s'appuyant sur les besoins collectés en amont. Une première version du MCD a été réalisée sur papier puis transposée numériquement afin d'être validée par le tuteur. Plusieurs itérations ont été nécessaires pour corriger des problèmes de structure, notamment l'absence de table de diagnostic et le manque de métadonnées essentielles comme les dates de création. Une deuxième version a permis d'améliorer la structuration des données et d'ajouter des éléments de description pour faciliter la compréhension utilisateur. Enfin, une troisième version a complètement refondu la partie diagnostic afin de limiter la dette technique et assurer une meilleure traçabilité des réponses et des freins levés.",
-    "competences": ["Gérer", "Collaborer", "Conduire"],
-    "technologies": [14],
+    "descriptionLongue": "Ce travail consistait à concevoir une base de données à partir de zéro en s'appuyant sur les besoins collectés en amont. Une première version du MCD a été réalisée sur papier puis transposée sous forme numérique afin d'être validée par mon tuteur. Plusieurs itérations ont été nécessaires pour corriger des problèmes de structure, notamment l'absence de table de diagnostic et le manque de métadonnées essentielles comme les dates de création. Une deuxième version a permis d'améliorer la structuration des données et d'ajouter des éléments de description pour faciliter la compréhension utilisateur. Enfin, une troisième version a complètement refondu la partie diagnostic afin de limiter la dette technique et assurer une meilleure traçabilité des réponses et des freins levés.",
+    "competences": [
+      "Gérer",
+      "Collaborer",
+      "Conduire"
+    ],
+    "technologies": [
+      14
+    ],
     "apprentissages": [
       {
         "code": "AC24.01",
@@ -643,84 +738,90 @@
     ],
     "image": "",
     "github": "",
-    "captures": ["/portfolio/images/mcd.png"]
+    "captures": [
+      "/portfolio/images/mcd.png"
+    ]
   },
   {
-  "id": 15,
-  "nom": "ALTER INFO - Création du projet et ajout de fonctionnalités",
-  "titre": "Projet de développement Diagnostics",
-  "annee": "BUT 2",
-  "importance": 1,
-  "type": "Professionnel",
-  "descriptionCourte": "Développement d'une application web de gestion de diagnostics sociaux avec architecture Vue.js, Express et MySQL.",
-  "descriptionLongue": "Développement d'une application web reposant sur une architecture client/serveur avec Vue.js, TypeScript, Express et MySQL. J'ai conçu les routes API REST permettant la gestion des diagnostics, des thèmes, des questions et des réponses. Une attention particulière a été portée à la flexibilité du système grâce à l'utilisation de données JSON stockées en base afin de gérer dynamiquement les règles de visibilité et les différents types de réponses. J'ai également participé à l'évolution du modèle de données, à la gestion des états avec Pinia, à la communication via Axios et à la création d'une interface d'administration permettant la modification et l'ajout de questions en temps réel.",
-  "competences": [
-    "Réaliser",
-    "Administrer",
-    "Gérer",
-    "Conduire", 
-    "Collaborer"
-  ],
-  "technologies": [
-    7,
-    22,
-    5,
-    6,
-    8,
-    11
-  ],
-  "apprentissages": [
-    {
-      "code": "AC21.01",
-      "description": "Élaborer et implémenter les spécifications fonctionnelles et non fonctionnelles à partir des exigences"
-    },
-    {
-      "code": "AC21.03",
-      "description": "Adopter de bonnes pratiques de conception et de programmation"
-    },
-    {
-      "code": "AC23.01",
-      "description": "Concevoir et développer des applications communicantes"
-    },
-    {
-      "code": "AC24.04",
-      "description": "Manipuler des données hétérogènes"
-    },
-    {
-      "code": "AC24.01",
-      "description": "Optimiser les modèles de données de l’entreprise"
-    },
-    {
-      "code": "AC25.02",
-      "description": "Formaliser les besoins du client et de l’utilisateur"
-    },
-    {
-      "code": "AC25.04",
-      "description": "Définir et mettre en œuvre une démarche de suivi de projet"
-    },
-    {
-      "code": "AC26.03",
-      "description": "Mobiliser les compétences interpersonnelles pour travailler dans une équipe informatique"
-    },
-    {
-      "code": "AC26.04",
-      "description": "Rendre compte de son activité professionnelle"
-    }
-  ],
-  "competencesDeveloppees": [
-    "Développement API REST",
-    "Vue.js et TypeScript",
-    "Gestion d'état avec Pinia",
-    "Conception de bases de données",
-    "MySQL",
-    "Architecture client-serveur",
-    "Manipulation de données JSON",
-    "Administration applicative",
-    "Travail en équipe",
-    "Méthodes de développement professionnelles"
-  ],
-  "image": "/images/projects/alterinfo.png",
-  "github": "https://github.com/CheyenneBonniol/diagnostic",
-  "captures": ["/portfolio/images/admin.png", "/portfolio/images/accueil.png", "/portfolio/images/questionnaire.png"]
-}
+    "id": 15,
+    "nom": "ALTER INFO - Création du projet et ajout de fonctionnalités",
+    "titre": "Projet de développement Diagnostics",
+    "annee": "BUT 2",
+    "importance": 1,
+    "type": "Professionnel",
+    "descriptionCourte": "Développement d'une application web de gestion de diagnostics sociaux avec architecture Vue.js, Express et MySQL.",
+    "descriptionLongue": "Développement d'une application web reposant sur une architecture client/serveur avec Vue.js, TypeScript, Express et MySQL. J'ai conçu les routes API REST permettant la gestion des diagnostics, des thèmes, des questions et des réponses. Une attention particulière a été portée à la flexibilité du système grâce à l'utilisation de données JSON stockées en base de données afin de gérer dynamiquement les règles de visibilité et les différents types de réponses. J'ai également participé à l'évolution du modèle de données, à la gestion des états avec Pinia, à la communication via Axios et à la création d'une interface d'administration permettant la modification et l'ajout de questions en temps réel.",
+    "competences": [
+      "Réaliser",
+      "Administrer",
+      "Gérer",
+      "Conduire",
+      "Collaborer"
+    ],
+    "technologies": [
+      7,
+      22,
+      5,
+      6,
+      8,
+      11
+    ],
+    "apprentissages": [
+      {
+        "code": "AC21.01",
+        "description": "Élaborer et implémenter les spécifications fonctionnelles et non fonctionnelles à partir des exigences"
+      },
+      {
+        "code": "AC21.03",
+        "description": "Adopter de bonnes pratiques de conception et de programmation"
+      },
+      {
+        "code": "AC23.01",
+        "description": "Concevoir et développer des applications communicantes"
+      },
+      {
+        "code": "AC24.04",
+        "description": "Manipuler des données hétérogènes"
+      },
+      {
+        "code": "AC24.01",
+        "description": "Optimiser les modèles de données de l’entreprise"
+      },
+      {
+        "code": "AC25.02",
+        "description": "Formaliser les besoins du client et de l’utilisateur"
+      },
+      {
+        "code": "AC25.04",
+        "description": "Définir et mettre en œuvre une démarche de suivi de projet"
+      },
+      {
+        "code": "AC26.03",
+        "description": "Mobiliser les compétences interpersonnelles pour travailler dans une équipe informatique"
+      },
+      {
+        "code": "AC26.04",
+        "description": "Rendre compte de son activité professionnelle"
+      }
+    ],
+    "competencesDeveloppees": [
+      "Développement API REST",
+      "Vue.js et TypeScript",
+      "Gestion d'état avec Pinia",
+      "Conception de bases de données",
+      "MySQL",
+      "Architecture client-serveur",
+      "Manipulation de données JSON",
+      "Administration applicative",
+      "Travail en équipe",
+      "Méthodes de développement professionnelles"
+    ],
+    "image": "/images/projects/alterinfo.png",
+    "github": "https://github.com/CheyenneBonniol/diagnostic",
+    "captures": [
+      "/portfolio/images/admin.png",
+      "/portfolio/images/accueil.png",
+      "/portfolio/images/questionnaire.png"
+    ]
+  }
 ]
