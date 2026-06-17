@@ -102,7 +102,7 @@ const props = defineProps<{
         annee: string
         importance: number
 
-        type: 'Universitaire' | 'Personnel' | 'Professionnel'
+        type: string
 
         descriptionCourte: string
         descriptionLongue: string
