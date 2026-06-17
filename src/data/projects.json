@@ -62,10 +62,10 @@
       "Tests",
       "Travail en équipe"
     ],
-    "image": "/images/projects/sae201.png",
+    "image": "/portfolio/images/projects/sae201.png",
     "website": "",
     "github": "https://github.com/CheyenneBonniol/sae-s2-fete-des-lumieres/tree/main",
-    "captures": ["/images/projects/sae201-1.png", "/images/projects/sae201-2.png"]
+    "captures": ["/portfolio/images/projects/sae201-1.png", "/portfolio/images/projects/sae201-2.png"]
   },
   {
     "id": 2,
@@ -93,7 +93,7 @@
       }
     ],
     "competencesDeveloppees": ["Programmation", "Analyse des besoins", "Tests"],
-    "image": "/images/projects/sae101.png",
+    "image": "/portfolio/images/projects/sae101.png",
     "website": "",
     "github": "https://github.com/CheyenneBonniol/Annuaire",
     "captures": []
@@ -128,7 +128,7 @@
       "Analyse de performances",
       "Résolution de problèmes"
     ],
-    "image": "/images/projects/sae102.png",
+    "image": "/portfolio/images/projects/sae102.png",
     "website": "",
     "github": "https://github.com/CheyenneBonniol/Annuaire",
     "captures": []
@@ -152,7 +152,7 @@
       }
     ],
     "competencesDeveloppees": ["Frontend", "Vue.js", "Composants", "Responsive Design"],
-    "image": "/images/projects/portfolio.png",
+    "image": "/portfolio/images/projects/portfolio.png",
     "website": "",
     "github": "",
     "captures": []
@@ -196,7 +196,7 @@
       "Travail en équipe"
     ],
 
-    "image": "/images/projects/sae205.png",
+    "image": "/portfolio/images/projects/sae205.png",
     "website": "",
     "github": "",
 
@@ -237,7 +237,7 @@
     "image": "",
     "website": "",
     "github": "",
-    "captures": ["/images/POWER_BI_1.png", "/images/POWER_BI_2.png"]
+    "captures": ["/portfolio/images/POWER_BI_1.png", "/portfolio/images/POWER_BI_2.png"]
   },
   {
     "id": 8,
@@ -272,7 +272,7 @@
       "Rédaction de documentation technique",
       "Analyse des besoins"
     ],
-    "image": "/images/projects/poste-dev.png",
+    "image": "/portfolio/images/projects/poste-dev.png",
     "website": "",
     "github": "",
     "captures": []
@@ -392,7 +392,7 @@
     "image": "",
     "website": "",
     "github": "",
-    "captures": ["/images/collectify_1.png", "/images/collectify_2.png", "/images/collectify_3.png"]
+    "captures": ["/portfolio/images/collectify_1.png", "/portfolio/images/collectify_2.png", "/portfolio/images/collectify_3.png"]
   },
   {
     "id": 10,
@@ -557,9 +557,9 @@
     "Architecture web",
     "Travail en équipe"
   ],
-  "image": "/images/projects/blog-rate.png",
+  "image": "/portfolio/images/projects/blog-rate.png",
   "github": "https://github.com/CheyenneBonniol/Le-site-dont-vous-etes-le-rate",
-  "captures": ["/images/blog-php-1.png", "/images/blog-php-2.png", "/images/blog-php-3.png"]
+  "captures": ["/portfolio/images/blog-php-1.png", "/portfolio/images/blog-php-2.png", "/portfolio/images/blog-php-3.png"]
 },
 {
   "id": 13,
@@ -601,7 +601,7 @@
   ],
   "image": "",
   "github": "",
-  "captures": ["/images/fichierRecueil.png"]
+  "captures": ["/portfolio/images/fichierRecueil.png"]
 }
 
 
