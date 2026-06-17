@@ -1,0 +1,136 @@
+/* ── Tokens ── */
+:root {
+  --red:        #8b1a1a;
+  --red-light:  #b32020;
+  --red-bg:     rgba(139, 26, 26, 0.07);
+  --red-border: rgba(139, 26, 26, 0.2);
+
+  --bg:         #faf7f7;
+  --bg-card:    #ffffff;
+  --bg-soft:    #f3eded;
+
+  --text:       #1a0a0a;
+  --text-sub:   #5c3d3d;
+  --text-muted: #9e7878;
+
+  --border:     rgba(139, 26, 26, 0.12);
+  --radius:     10px;
+  --shadow:     0 2px 12px rgba(139, 26, 26, 0.08);
+}
+
+/* ── Reset ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; text-decoration: none; }
+img { display: block; max-width: 100%; }
+
+/* ── Layout ── */
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 ;
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--red-border); border-radius: 3px; }
+
+/* ── Buttons ── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 9px 18px;
+  border-radius: var(--radius);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s ease;
+}
+
+.btn-primary {
+  background: var(--red);
+  color: #fff;
+}
+.btn-primary:hover { background: var(--red-light); transform: translateY(-1px); }
+
+.btn-outline {
+  background: transparent;
+  color: var(--text-sub);
+  border: 1px solid var(--border);
+}
+.btn-outline:hover { background: var(--bg-soft); color: var(--red); border-color: var(--red-border); }
+
+/* ── Tag / Badge ── */
+.tag {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 500;
+  padding: 3px 10px;
+  border-radius: 99px;
+  background: var(--red-bg);
+  color: var(--red);
+  border: 1px solid var(--red-border);
+}
+
+/* ── Label above sections ── */
+.label {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--red);
+  margin-bottom: 8px;
+}
+
+/* ── Card ── */
+.cardAccueil {
+  background: var(--bg-card);
+  box-shadow: var(--shadow);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  
+}
+
+
+/* Tech list */
+.tech-list { display: flex; flex-direction: column; gap: 8px; }
+
+.tech-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: 0 0 4px var(--red-border);
+}
+
+.tech-info {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.tech-dots { display: flex; gap: 4px; }
+
+.dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+}

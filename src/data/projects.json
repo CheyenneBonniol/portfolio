@@ -1,0 +1,608 @@
+[
+  {
+    "id": 1,
+    "nom": "Application Fête des Lumières",
+    "titre": "SAE 2.01 - Développement d'une application ; SAE 2.02 - Exploration algorithmique d’un problème ; SAE 2.06 - Organisation d’un travail d’équipe",
+    "annee": "BUT 1",
+    "importance": 2,
+    "type": "Universitaire",
+    "descriptionCourte": "Développement complet d'une application répondant à un besoin client.",
+    "descriptionLongue": "Cette SAE avait pour objectif de formaliser les besoins d'un client, proposer une conception puis développer et tester l'application réalisée. en équipe de 2 Application sur le thème de la fête des lumières de Lyon afin de trouver les plus cours chemin entre plusieurs points, géographique ou euclidien.",
+    "competences": ["Réaliser", "Optimiser", "Colaborer"],
+    "technologies": [1, 11, 15],
+    "apprentissages": [
+      {
+        "code": "AC11.01",
+        "description": "Implémenter des conceptions simples"
+      },
+      {
+        "code": "AC11.02",
+        "description": "Élaborer des conceptions simples"
+      },
+      {
+        "code": "AC11.03",
+        "description": "Faire des essais et évaluer leurs résultats"
+      },
+      {
+        "code": "AC11.04",
+        "description": "Développer des interfaces utilisateurs"
+      },
+      {
+        "code": "AC12.01",
+        "description": "Analyser un problème avec méthode (découpage en éléments algorithmiques simples, structures de données...)"
+      },
+      {
+        "code": "AC12.02",
+        "description": "Comparer des algorithmes pour des problèmes classiques (tris simples, recherche...)"
+      },
+      {
+        "code": "AC12.03",
+        "description": "Formaliser et mettre en œuvre des outils mathématiques pour l'informatique"
+      },
+      {
+        "code": "AC16.01",
+        "description": "Appréhender l’écosystème numérique"
+      },
+      {
+        "code": "AC16.02",
+        "description": "Découvrir les aptitudes requises selon les différents secteurs informatiques"
+      },
+      {
+        "code": "AC16.03",
+        "description": "Identifier les statuts, les fonctions et les rôles de chaque membre d’une équipe pluridisciplinaire"
+      },
+      {
+        "code": "AC16.04",
+        "description": "Acquérir les compétences interpersonnelles pour travailler en équipe"
+      }
+    ],
+    "competencesDeveloppees": [
+      "Programmation orientée objet",
+      "Conception logicielle",
+      "Tests",
+      "Travail en équipe"
+    ],
+    "image": "/images/projects/sae201.png",
+    "website": "",
+    "github": "https://github.com/CheyenneBonniol/sae-s2-fete-des-lumieres/tree/main",
+    "captures": ["/images/projects/sae201-1.png", "/images/projects/sae201-2.png"]
+  },
+  {
+    "id": 2,
+    "nom": "Annuaire",
+    "titre": "SAE 1.01 - Implémentation d'un besoin client",
+    "annee": "BUT 1",
+    "importance": 2,
+    "type": "Universitaire",
+    "descriptionCourte": "Développement d'une application à partir d'un cahier des charges.",
+    "descriptionLongue": "Cette SAE consistait à implémenter une solution répondant à un besoin client et à produire les preuves de validation via des jeux d'essais en équipe de 2. L'application fonctionne en boîte noire",
+    "competences": ["Réaliser"],
+    "technologies": [1,11],
+    "apprentissages": [
+      {
+        "code": "AC11.01",
+        "description": "Implémenter des conceptions simples"
+      },
+      {
+        "code": "AC11.02",
+        "description": "Élaborer des conceptions simples"
+      },
+      {
+        "code": "AC11.03",
+        "description": "Faire des essais et évaluer leurs résultats"
+      }
+    ],
+    "competencesDeveloppees": ["Programmation", "Analyse des besoins", "Tests"],
+    "image": "/images/projects/sae101.png",
+    "website": "",
+    "github": "https://github.com/CheyenneBonniol/Annuaire",
+    "captures": []
+  },
+  {
+    "id": 3,
+    "nom": "Etudes des fonctions de l'Annuaire",
+    "titre": "SAE 1.02 - Comparaison d'approches algorithmiques",
+    "annee": "BUT 1",
+    "importance": 3,
+    "type": "Universitaire",
+    "descriptionCourte": "Étude et comparaison de plusieurs algorithmes.",
+    "descriptionLongue": "Cette SAE avait pour objectif de comparer différentes approches algorithmiques afin d'évaluer leurs performances et leur pertinence pour le projet annuaire par la même équipe de 2. La comparaison s'est faite entre les algorithmes de tris",
+    "competences": ["Optimiser"],
+    "technologies": [1,11,19],
+    "apprentissages": [
+      {
+        "code": "AC12.01",
+        "description": "Analyser un problème avec méthode"
+      },
+      {
+        "code": "AC12.02",
+        "description": "Comparer des algorithmes"
+      },
+      {
+        "code": "AC12.03",
+        "description": "Formaliser et mettre en œuvre des outils mathématiques"
+      }
+    ],
+    "competencesDeveloppees": [
+      "Algorithmique",
+      "Analyse de performances",
+      "Résolution de problèmes"
+    ],
+    "image": "/images/projects/sae102.png",
+    "website": "",
+    "github": "https://github.com/CheyenneBonniol/Annuaire",
+    "captures": []
+  },
+
+  {
+    "id": 5,
+    "nom": "Portfolio Vue.js",
+    "titre": "Démarche portfolio",
+    "annee": "BUT 2",
+    "importance": 15,
+    "type": "Universitaire",
+    "descriptionCourte": "Création d'un portfolio personnel en Vue.js.",
+    "descriptionLongue": "Développement d'un portfolio dynamique utilisant Vue.js et des fichiers JSON comme source de données.",
+    "competences": ["Réaliser"],
+    "technologies": [7,11,22],
+    "apprentissages": [
+      {
+        "code": "AC11.04",
+        "description": "Développer des interfaces utilisateurs"
+      }
+    ],
+    "competencesDeveloppees": ["Frontend", "Vue.js", "Composants", "Responsive Design"],
+    "image": "/images/projects/portfolio.png",
+    "website": "",
+    "github": "",
+    "captures": []
+  },
+  {
+    "id": 6,
+    "nom": "Cahier des Charges application fête des lumières",
+    "titre": "SAE 2.05 - Gestion d'un projet",
+    "annee": "BUT 1",
+    "importance": 5,
+    "type": "Universitaire",
+    "descriptionCourte": "Analyse des besoins d'un client et rédaction d'un cahier des charges complet pour encadrer le développement d'une application.",
+
+    "descriptionLongue": "Cette SAE avait pour objectif de découvrir les méthodes de gestion de projet informatique. À partir d'un besoin client, nous avons analysé les attentes des utilisateurs puis rédigé un cahier des charges détaillé. Le projet comprenait la définition des objectifs (méthode SMART), l'analyse du contexte (QQOQCP), l'identification des contraintes et enjeux, la priorisation des fonctionnalités avec la méthode MoSCoW ainsi que la planification des tâches à l'aide d'outils de gestion de projet tels que le WBS et la matrice RACI. Cette SAE m'a permis de comprendre les différentes étapes d'un cycle de développement et l'importance de la communication avec les parties prenantes.",
+
+    "competences": ["Conduire"],
+
+    "technologies": [19],
+
+    "apprentissages": [
+      {
+        "code": "AC15.01",
+        "description": "Appréhender les besoins du client et de l’utilisateur"
+      },
+      {
+        "code": "AC15.02",
+        "description": "Mettre en place les outils de gestion de projet"
+      },
+      {
+        "code": "AC15.03",
+        "description": "Identifier les acteurs et les différentes phases d’un cycle de développement"
+      }
+    ],
+
+    "competencesDeveloppees": [
+      "Analyse des besoins",
+      "Gestion de projet",
+      "Planification",
+      "Communication",
+      "Rédaction de documentation",
+      "Travail en équipe"
+    ],
+
+    "image": "/images/projects/sae205.png",
+    "website": "",
+    "github": "",
+
+    "captures": []
+  },
+  {
+    "id": 4,
+    "nom": "Analyse Power BI",
+    "titre": "SAE 2.04 - Exploitation d'une base de données",
+    "annee": "BUT 1",
+    "importance": 6,
+    "type": "Universitaire",
+    "descriptionCourte": "Analyse et exploitation de données à partir d'une base Oracle.",
+    "descriptionLongue": "Cette SAE avait pour objectif d'exploiter les données d'une base Oracle afin d'en extraire des informations pertinentes en équipe de 2. Le travail consistait à interroger les données, réaliser des analyses et produire des tableaux de bord et visualisations avec Power BI afin de mettre en évidence des indicateurs utiles à la prise de décision.",
+    "competences": ["Gérer"],
+    "technologies": [8, 17],
+    "apprentissages": [
+      {
+        "code": "AC14.01",
+        "description": "Mettre à jour et interroger une base de données relationnelle"
+      },
+      {
+        "code": "AC14.02",
+        "description": "Visualiser des données"
+      },
+      {
+        "code": "AC14.03",
+        "description": "Concevoir une base de données relationnelle à partir d'un cahier des charges"
+      }
+    ],
+    "competencesDeveloppees": [
+      "SQL",
+      "Analyse de données",
+      "Visualisation de données",
+      "Power BI",
+      "Oracle Database"
+    ],
+    "image": "",
+    "website": "",
+    "github": "",
+    "captures": ["/images/POWER_BI_1.png", "/images/POWER_BI_2.png"]
+  },
+  {
+    "id": 8,
+    "nom": "Configuration d'un poste informatique",
+    "titre": "SAE 1.03 - Installation d'un poste pour le développement",
+    "annee": "BUT 1",
+    "importance": 7,
+    "type": "Universitaire",
+    "descriptionCourte": "Installation et configuration d'un poste informatique sous Windows 10 répondant aux besoins d'un utilisateur.",
+    "descriptionLongue": "Cette SAE avait pour objectif de préparer un poste informatique à partir d'un besoin exprimé par un client en équipe de 2. Le projet consistait à étudier les composants matériels nécessaires, justifier le choix d'une configuration adaptée puis réaliser une documentation technique. Une seconde partie portait sur la configuration d'un poste sous Windows 10 pour un environnement familial avec la mise en place de comptes utilisateurs, de groupes et de droits d'accès adaptés. L'ensemble du travail a été documenté à travers une notice technique et une notice d'utilisation.",
+    "competences": ["Administrer"],
+    "technologies": [18, 19],
+    "apprentissages": [
+      {
+        "code": "AC13.01",
+        "description": "Identifier les différents composants matériels et logiciels d'un système numérique"
+      },
+      {
+        "code": "AC13.02",
+        "description": "Utiliser les fonctionnalités de base d'un système multitâches et multiutilisateurs"
+      },
+      {
+        "code": "AC13.03",
+        "description": "Installer et configurer un système d'exploitation et des outils de développement"
+      }
+    ],
+    "competencesDeveloppees": [
+      "Architecture matérielle",
+      "Configuration Windows",
+      "Gestion des utilisateurs",
+      "Gestion des groupes et des droits",
+      "Rédaction de documentation technique",
+      "Analyse des besoins"
+    ],
+    "image": "/images/projects/poste-dev.png",
+    "website": "",
+    "github": "",
+    "captures": []
+  },
+  {
+    "id": 9,
+    "nom": "Collectify",
+    "titre": "SAE 3.01 - Développement d’une application ; SAE 4.01 - Développement d’une application complexe",
+    "annee": "BUT 2",
+    "importance": 2,
+    "type": "Universitaire",
+    "descriptionCourte": "Développement et amélioration d'une application web collaborative s'appuyant sur une base de données et des services serveur.",
+    "descriptionLongue": "Projet réalisé en équipe de 4. L'objectif était de recueillir et formaliser les besoins des utilisateurs, concevoir puis développer une application web communicante reposant sur une base de données et des services serveur. Le projet a ensuite été amélioré à travers une démarche itérative portant sur la qualité logicielle, les performances, la sécurité, l'accessibilité et l'ergonomie. Le travail comprenait le développement des fonctionnalités, la gestion des données, les tests, le suivi du projet et la collaboration au sein d'une équipe informatique.",
+    "competences": ["Réaliser", "Optimiser", "Administrer", "Gérer", "Conduire", "Collaborer"],
+    "technologies": [20, 14, 11, 8, 6, 5, 4, 15],
+    "apprentissages": [
+      {
+        "code": "AC21.01",
+        "description": "Élaborer et implémenter les spécifications fonctionnelles et non fonctionnelles à partir des exigences"
+      },
+      {
+        "code": "AC21.02",
+        "description": "Appliquer des principes d’accessibilité et d’ergonomie"
+      },
+      {
+        "code": "AC21.03",
+        "description": "Adopter de bonnes pratiques de conception et de programmation"
+      },
+      {
+        "code": "AC21.04",
+        "description": "Vérifier et valider la qualité de l’application par les tests"
+      },
+      {
+        "code": "AC22.01",
+        "description": "Choisir des structures de données complexes adaptées au problème"
+      },
+      {
+        "code": "AC22.02",
+        "description": "Utiliser des techniques algorithmiques adaptées pour des problèmes complexes"
+      },
+      {
+        "code": "AC22.03",
+        "description": "Comprendre les enjeux et moyens de sécurisation des données et du code"
+      },
+      {
+        "code": "AC22.04",
+        "description": "Évaluer l’impact environnemental et sociétal des solutions proposées"
+      },
+      {
+        "code": "AC23.01",
+        "description": "Concevoir et développer des applications communicantes"
+      },
+      {
+        "code": "AC23.02",
+        "description": "Utiliser des serveurs et des services réseaux virtualisés"
+      },
+      {
+        "code": "AC23.03",
+        "description": "Sécuriser les services et données d’un système"
+      },
+      {
+        "code": "AC24.01",
+        "description": "Optimiser les modèles de données de l’entreprise"
+      },
+      {
+        "code": "AC24.02",
+        "description": "Assurer la sécurité des données (intégrité et confidentialité)"
+      },
+      {
+        "code": "AC24.03",
+        "description": "Organiser la restitution de données à travers la programmation et la visualisation"
+      },
+      {
+        "code": "AC24.04",
+        "description": "Manipuler des données hétérogènes"
+      },
+      {
+        "code": "AC25.02",
+        "description": "Formaliser les besoins du client et de l’utilisateur"
+      },
+      {
+        "code": "AC25.03",
+        "description": "Identifier les critères de faisabilité d’un projet informatique"
+      },
+      {
+        "code": "AC25.04",
+        "description": "Définir et mettre en œuvre une démarche de suivi de projet"
+      },
+      {
+        "code": "AC26.02",
+        "description": "Appliquer une démarche pour intégrer une équipe informatique au sein d’une organisation"
+      },
+      {
+        "code": "AC26.03",
+        "description": "Mobiliser les compétences interpersonnelles pour travailler dans une équipe informatique"
+      },
+      {
+        "code": "AC26.04",
+        "description": "Rendre compte de son activité professionnelle"
+      }
+    ],
+    "competencesDeveloppees": [
+      "Développement web",
+      "Développement backend",
+      "Conception logicielle",
+      "Architecture applicative",
+      "Bases de données relationnelles",
+      "Programmation orientée objet",
+      "Qualité logicielle",
+      "Tests",
+      "Sécurité applicative",
+      "Accessibilité",
+      "Gestion de projet",
+      "Travail en équipe",
+      "Communication professionnelle"
+    ],
+    "image": "",
+    "website": "",
+    "github": "",
+    "captures": ["/images/collectify_1.png", "/images/collectify_2.png", "/images/collectify_3.png"]
+  },
+  {
+    "id": 10,
+    "nom": "Tests React & Algorithmes",
+    "titre": "Projet personnel d'apprentissage",
+    "annee": "BUT 2",
+    "importance": 10,
+    "type": "Personnel",
+    "descriptionCourte": "Découverte de React et TypeScript à travers le développement d'une application To-Do List et la réalisation d'exercices algorithmiques.",
+    "descriptionLongue": "Ce projet personnel avait pour objectif de découvrir l'écosystème React et TypeScript tout en renforçant les bases algorithmiques. Il est composé de deux parties : une application To-Do List développée avec React et TypeScript permettant la gestion de tâches, ainsi qu'un ensemble d'exercices algorithmiques en Python comprenant notamment un FizzBuzz et un vérificateur de palindrome. Ce projet m'a permis d'apprendre les hooks React, la syntaxe TSX, le typage avec TypeScript et l'organisation d'une application front-end moderne.",
+    "competences": ["Réaliser", "Optimiser"],
+    "technologies": [21, 22, 2, 11],
+    "apprentissages": [
+      {
+        "code": "AC21.03",
+        "description": "Adopter de bonnes pratiques de conception et de programmation"
+      },
+      {
+        "code": "AC21.01",
+        "description": "Élaborer et implémenter les spécifications fonctionnelles et non fonctionnelles à partir des exigences"
+      },
+      {
+        "code": "AC21.04",
+        "description": "Vérifier et valider la qualité de l’application par les tests"
+      },
+      {
+        "code": "AC22.01",
+        "description": "Choisir des structures de données complexes adaptées au problème"
+      },
+      {
+        "code": "AC12.01",
+        "description": "Analyser un problème avec méthode (découpage en éléments algorithmiques simples, structure de données...)"
+      },
+      {
+        "code": "AC12.02",
+        "description": "Comparer des algorithmes pour des problèmes classiques (tris simples, recherche...)"
+      }
+    ],
+    "competencesDeveloppees": [
+      "React",
+      "TypeScript",
+      "Programmation algorithmique",
+      "Gestion d'état",
+      "Développement Front-End",
+      "Résolution de problèmes"
+    ],
+    "image": "",
+    "website": "",
+    "github": "https://github.com/CheyenneBonniol/Tests_ReactAndAlgo",
+    "captures": []
+  },
+  {
+    "id": 11,
+    "nom": "Site web de l'association 1ACM",
+    "titre": "Création et mise en ligne d'un site vitrine sous WordPress",
+    "annee": "2023",
+    "importance": 6,
+    "type": "Personnel",
+    "descriptionCourte": "Conception et réalisation d'un site web vitrine pour une association, avec choix de l'hébergement et structuration du contenu.",
+    "descriptionLongue": "Réalisation du site internet de l'association 1ACM sous WordPress. Le projet consistait à définir l'organisation générale du site, choisir une offre d'hébergement adaptée aux besoins de l'association, concevoir l'arborescence des pages et mettre en place les différents contenus. Le site ne repose pas sur une base de données métier spécifique : les informations sont saisies et mises à jour directement depuis l'interface d'administration WordPress. Aujourd'hui, la maintenance et l'évolution du site sont assurées par l'association et un autre étudiant du BUT.",
+    "competences": ["Conduire", "Collaborer"],
+    "technologies": [23],
+    "apprentissages": [
+      {
+        "code": "AC15.01",
+        "description": "Appréhender les besoins du client et de l’utilisateur"
+      },
+      {
+        "code": "AC15.03",
+        "description": "Identifier les acteurs et les différentes phases d’un cycle de développement"
+      },
+      {
+        "code": "AC25.02",
+        "description": "Formaliser les besoins du client et de l’utilisateur"
+      },
+      {
+        "code": "AC25.03",
+        "description": "Identifier les critères de faisabilité d’un projet informatique"
+      },
+      {
+        "code": "AC16.01",
+        "description": "Appréhender l’écosystème numérique"
+      },
+      {
+        "code": "AC16.03",
+        "description": "Identifier les statuts, les fonctions et les rôles de chaque membre d’une équipe pluridisciplinaire"
+      }
+    ],
+    "competencesDeveloppees": [
+      "Recueil des besoins",
+      "Conception d'arborescence web",
+      "Gestion d'un CMS",
+      "Choix d'hébergement",
+      "Administration WordPress",
+      "Communication avec un client"
+    ],
+    "image": "",
+    "website": "https://1acm.fr/",
+    "github": "",
+    "captures": []
+  },
+  {
+  "id": 12,
+  "nom": "Le site dont vous êtes le raté",
+  "titre": "Projet de développement web PHP",
+  "annee": "BUT 2",
+  "importance": 4,
+  "type": "universitaire",
+  "descriptionCourte": "Développement d'un blog collaboratif en PHP permettant la publication d'articles, la gestion des utilisateurs et les interactions entre membres.",
+  "descriptionLongue": "Réalisation d'un site web dynamique développé en PHP et MySQL dans le cadre du BUT Informatique. Le projet consistait à concevoir un blog humoristique où les utilisateurs peuvent créer un compte, publier des articles, commenter les publications d'autres membres et gérer leur profil. Le site intègre un système d'authentification, une interface d'administration, la gestion des catégories d'articles ainsi qu'une base de données relationnelle permettant de stocker les utilisateurs, les publications et les commentaires. Ce projet a permis de mettre en pratique le développement web côté serveur, la conception de bases de données et le travail en équipe sur une application complète.",
+  "competences": [
+    "Réaliser",
+    "Administrer",
+    "Gérer",
+    "Collaborer"
+  ],
+  "technologies": [
+    20,
+    5,
+    8, 6
+  ],
+  "apprentissages": [
+    {
+      "code": "AC21.01",
+      "description": "Élaborer et implémenter les spécifications fonctionnelles et non fonctionnelles à partir des exigences"
+    },
+    {
+      "code": "AC21.03",
+      "description": "Adopter de bonnes pratiques de conception et de programmation"
+    },
+    {
+      "code": "AC21.04",
+      "description": "Vérifier et valider la qualité de l’application par les tests"
+    },
+    {
+      "code": "AC23.01",
+      "description": "Concevoir et développer des applications communicantes"
+    },
+    {
+      "code": "AC24.04",
+      "description": "Manipuler des données hétérogènes"
+    },
+    {
+      "code": "AC24.01",
+      "description": "Optimiser les modèles de données de l’entreprise"
+    },
+    {
+      "code": "AC25.04",
+      "description": "Définir et mettre en œuvre une démarche de suivi de projet"
+    },
+    {
+      "code": "AC26.03",
+      "description": "Mobiliser les compétences interpersonnelles pour travailler dans une équipe informatique"
+    }
+  ],
+  "competencesDeveloppees": [
+    "Développement PHP",
+    "Conception de base de données relationnelle",
+    "Requêtes SQL",
+    "Authentification utilisateur",
+    "Gestion des rôles",
+    "Architecture web",
+    "Travail en équipe"
+  ],
+  "image": "/images/projects/blog-rate.png",
+  "github": "https://github.com/CheyenneBonniol/Le-site-dont-vous-etes-le-rate",
+  "captures": ["/images/blog-php-1.png", "/images/blog-php-2.png", "/images/blog-php-3.png"]
+},
+{
+  "id": 13,
+  "nom": "ALTER INFO - Recueil des besoins utilisateurs et analyse des fonctionnalités",
+  "titre": "Projet de développement Diagnostics",
+  "annee": "BUT 2",
+  "importance": 1,
+  "type": "Professionnel",
+  "descriptionCourte": "Analyse de l'existant et recueil des besoins utilisateurs dans le cadre de la refonte d'une application de suivi socioprofessionnel.",
+  "descriptionLongue": "Dans le cadre d'un projet de refonte d'une application utilisée par des Conseillers en Insertion Professionnelle (CIP), ma mission consistait à analyser l'existant et à identifier les fonctionnalités essentielles à conserver ou à faire évoluer. L'application permet le suivi de bénéficiaires accompagnés dans différents dispositifs financés par des organismes publics, tout en fournissant des indicateurs de suivi, d'assiduité et d'activité nécessaires aux financeurs.\n\nJ'ai réalisé une étude approfondie des fonctionnalités présentes dans l'application actuelle ainsi qu'un travail de recueil des besoins auprès des différents utilisateurs. Plusieurs entretiens ont été menés avec les CIP afin d'identifier les fonctionnalités clés, les éléments devenus obsolètes et les besoins non couverts. Une attention particulière a été portée au processus de réalisation des diagnostics, désormais devenus obligatoires dans le parcours d'accompagnement.\n\nCette analyse a abouti à la rédaction d'un document de synthèse de 17 pages regroupant le contexte métier, l'inventaire des fonctionnalités, les informations liées aux diagnostics et les retours des utilisateurs. J'ai également réalisé une étude du parcours utilisateur en observant et documentant les différentes étapes du premier accueil d'un bénéficiaire, depuis la première rencontre jusqu'aux rendez-vous de suivi. Ce travail a permis d'identifier les fonctionnalités réellement utilisées et de mettre en évidence la nécessité de simplifier et moderniser l'application afin de mieux répondre aux attentes des utilisateurs.",
+  "competences": [
+    "Conduire"
+  ],
+  "technologies": [
+    19
+  ],
+  "apprentissages": [
+    {
+      "code": "AC25.02",
+      "description": "Formaliser les besoins du client et de l’utilisateur"
+    },
+    {
+      "code": "AC25.03",
+      "description": "Identifier les critères de faisabilité d’un projet informatique"
+    },
+    {
+      "code": "AC25.04",
+      "description": "Définir et mettre en œuvre une démarche de suivi de projet"
+    }
+  ],
+  "competencesDeveloppees": [
+    "Analyse fonctionnelle",
+    "Recueil des besoins utilisateurs",
+    "Conduite d'entretiens",
+    "Rédaction documentaire",
+    "Cartographie des fonctionnalités",
+    "Analyse de parcours utilisateur",
+    "Compréhension des processus métier"
+  ],
+  "image": "",
+  "github": "",
+  "captures": ["/images/fichierRecueil.png"]
+}
+
+
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "nom": "Java",
+    "categorie": "Langage",
+    "niveau": 4,
+    "couleur": "#f89820",
+    "logo": "/images/technologies/java.svg",
+    "description": "Langage orienté objet utilisé dans de nombreux projets universitaires."
+  },
+  {
+    "id": 2,
+    "nom": "C",
+    "categorie": "Langage",
+    "niveau": 3,
+    "couleur": "#5eb4f0",
+    "logo": "/images/technologies/c.svg",
+    "description": "Langage bas niveau utilisé pour l'algorithmique et la programmation système."
+  },
+  {
+    "id": 3,
+    "nom": "Python",
+    "categorie": "Langage",
+    "niveau": 3,
+    "couleur": "#61a8dc",
+    "logo": "/images/technologies/python.svg",
+    "description": "Langage polyvalent utilisé pour les scripts et l'analyse de données."
+  },
+  {
+    "id": 4,
+    "nom": "JavaScript",
+    "categorie": "Langage",
+    "niveau": 4,
+    "couleur": "#f7df1e",
+    "logo": "/images/technologies/javascript.svg",
+    "description": "Langage principal du développement web dynamique."
+  },
+  {
+    "id": 5,
+    "nom": "HTML5",
+    "categorie": "Frontend",
+    "niveau": 4,
+    "couleur": "#e34f26",
+    "logo": "/images/technologies/html5.svg",
+    "description": "Langage de structuration des pages web."
+  },
+  {
+    "id": 6,
+    "nom": "CSS3",
+    "categorie": "Frontend",
+    "niveau": 4,
+    "couleur": "#38bdf8",
+    "logo": "/images/technologies/css3.svg",
+    "description": "Langage de mise en forme et de design des interfaces web."
+  },
+  {
+    "id": 7,
+    "nom": "Vue.js",
+    "categorie": "Framework Frontend",
+    "niveau": 4,
+    "couleur": "#42b883",
+    "logo": "/images/technologies/vuejs.svg",
+    "description": "Framework JavaScript utilisé pour la création d'interfaces modernes."
+  },
+  {
+    "id": 8,
+    "nom": "SQL",
+    "categorie": "Base de données",
+    "niveau": 4,
+    "couleur": "#60a5fa",
+    "logo": "/images/technologies/sql.svg",
+    "description": "Langage d'interrogation et de manipulation des bases de données."
+  },
+  {
+    "id": 9,
+    "nom": "MariaDB",
+    "categorie": "Base de données",
+    "niveau": 2,
+    "couleur": "#6ee7b7",
+    "logo": "/images/technologies/mariadb.svg",
+    "description": "Système de gestion de bases de données relationnelles."
+  },
+
+  {
+    "id": 11,
+    "nom": "Git",
+    "categorie": "Outil",
+    "niveau": 3,
+    "couleur": "#f05032",
+    "logo": "/images/technologies/git.svg",
+    "description": "Outil de gestion de versions utilisé pour le suivi du code."
+  },
+  
+  {
+    "id": 13,
+    "nom": "Linux",
+    "categorie": "Système d'exploitation",
+    "niveau": 3,
+    "couleur": "#fcd34d",
+    "logo": "/images/technologies/linux.svg",
+    "description": "Système d'exploitation utilisé dans le cadre de l'administration et du développement."
+  },
+  {
+    "id": 14,
+    "nom": "UML",
+    "categorie": "Conception",
+    "niveau": 3,
+    "couleur": "#9ca3af",
+    "logo": "/images/technologies/uml.svg",
+    "description": "Langage de modélisation utilisé pour concevoir les applications."
+  },
+  {
+    "id": 15,
+    "nom": "Figma",
+    "categorie": "Design",
+    "niveau": 2,
+    "couleur": "#f87171",
+    "logo": "/images/technologies/figma.svg",
+    "description": "Outil de maquettage et de conception d'interfaces."
+  },
+  {
+    "id": 16,
+    "nom": "VS Code",
+    "categorie": "IDE",
+    "niveau": 4,
+    "couleur": "#38bdf8",
+    "logo": "/images/technologies/vscode.svg",
+    "description": "Environnement de développement principal."
+  },
+  {
+    "id": 17,
+    "nom": "Power BI",
+    "categorie": "Data Visualisation",
+    "niveau": 2,
+    "couleur": "#F2C811"
+  },
+  {
+    "id": 18,
+    "nom": "Windows 10",
+    "categorie": "Système d'exploitation",
+    "niveau": 3,
+    "couleur": "#0078D4"
+  },
+  {
+    "id": 19,
+    "nom": "Microsoft Office",
+    "categorie": "Bureautique",
+    "niveau": 4,
+    "couleur": "#D83B01"
+  },
+  {
+    "id": 20,
+    "nom": "PHP",
+    "categorie": "Backend",
+    "niveau": 4,
+    "couleur": "#777BB4"
+  },
+  {
+    "id": 21,
+    "nom": "React",
+    "categorie": "Frontend",
+    "niveau": 2,
+    "couleur": "#61DAFB",
+    "description": "Bibliothèque JavaScript pour la création d'interfaces utilisateur."
+  },
+  {
+    "id": 22,
+    "nom": "TypeScript",
+    "categorie": "Langage",
+    "niveau": 4,
+    "couleur": "#3178C6",
+    "description": "Sur-ensemble typé de JavaScript utilisé pour sécuriser le développement."
+  },
+  {
+  "id": 23,
+  "nom": "WordPress",
+  "categorie": "CMS",
+  "couleur": "#21759B",
+  "niveau": 2,
+  "description": "Système de gestion de contenu utilisé pour la création et l'administration de sites web."
+}
+]

@@ -1,0 +1,13 @@
+{
+  "nom": "Cheyenne BONNIOL",
+  "formation": "BUT Informatique Réalisation d'Applications",
+  "annee": "2ème année",
+  "ville": "Saint Jean de Niost",
+  "email": "cheyenne.bonniol@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/cheyenne-bonniol/",
+  "github": "https://github.com/CheyenneBonniol",
+  "cv": "/CV_bonniolAlternance.pdf",
+  "description": "Étudiante en deuxième année de BUT Informatique, je suis passionnée par le développement logiciel et les technologies du web. À travers les différents projets universitaires et personnels réalisés, j'ai développé des compétences en programmation, conception logicielle, bases de données et développement web.",
+  "passions": ["Couture", "Développement web"],
+  "technologiesFavorites": [1, 2, 7]
+}

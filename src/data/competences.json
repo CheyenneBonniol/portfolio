@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nom": "Réaliser",
+    "description": "Développer des applications informatiques répondant à un besoin.",
+    "couleur": "#8b1a1a"
+  },
+  {
+    "id": 2,
+    "nom": "Optimiser",
+    "description": "Proposer des applications informatiques optimisées.",
+    "couleur": "#b85c2a"
+  },
+  {
+    "id": 3,
+    "nom": "Administrer",
+    "description": "Installer, configurer et maintenir des infrastructures.",
+    "couleur": "#7c3030"
+  },
+  {
+    "id": 4,
+    "nom": "Gérer",
+    "description": "Concevoir et exploiter des bases de données.",
+    "couleur": "#a0522d"
+  },
+  {
+    "id": 5,
+    "nom": "Conduire",
+    "description": "Conduire un projet informatique.",
+    "couleur": "#c0392b"
+  },
+  {
+    "id": 6,
+    "nom": "Collaborer",
+    "description": "Travailler efficacement au sein d'une équipe.",
+    "couleur": "#944040"
+  }
+]
